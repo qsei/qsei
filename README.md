@@ -4,19 +4,19 @@
 Тестировщик-разрушитель, тестировщик-стратег, начинающий системный аналитик. Исследую мир и развиваю навыки.
 Работаю тестировщиком с профилизацией на WEB, на позиции тимлида.
 
-##### 🛠 Навыки
+##### ⚡ Навыки
 - Тестирование: WEB, e2e, backend (API).
 - Языки программирования: Java, Python, JavaScript — языки, к которым питаю интерес. На уровне "написать небольшой скрипт".
 
-##### 📫 Как связаться со мной
+##### ⚡ Как связаться со мной
 - Email: owoox@ya.ru
 - Telegram: [@eogeny](https://t.me/eogeny)
 
-##### 🏆 Статистика GitHub
+##### ⚡ Статистика GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
 
 
-##### 🎉 Достижения
+##### ⚡ Стата по языкам
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsei&layout=compact)
 
 ---
@@ -41,4 +41,27 @@ Here are some ideas to get you started:
 Некоторые из моих проектов:
 - [Проект 1](ссылка_на_репозиторий) - краткое описание.
 - [Проект 2](ссылка_на_репозиторий) - краткое описание.
+
+
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,c,rust,html,css" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,idea,vscode" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux" />
+  </a>
+</p>
 -->
