@@ -1,22 +1,22 @@
-## Hi there 👋
+### Hi there 👋
 
-### Приветствую, я — Евген.
+#### Приветствую, я — Евген.
 Тестировщик-разрушитель, тестировщик-стратег, начинающий системный аналитик. Исследую мир и развиваю навыки.
 Работаю тестировщиком с профилизацией на WEB, на позиции тимлида.
 
-**🛠 Навыки**
+###### 🛠 Навыки
 - Тестирование: Тестирование WEB, e2e, backend (API).
 - Языки программирования: Java, Python, JavaScript — языки, к которым питаю интерес. Нарисать небольшие скрипты.
 
-**📫 Как связаться со мной**
+###### 📫 Как связаться со мной
 - Email: owoox@ya.ru
 - Telegram: [@eogeny](https://t.me/eogeny)
 
-**🏆 Статистика GitHub**
+###### 🏆 Статистика GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
 
 
-**🎉 Достижения**
+###### 🎉 Достижения
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsei&layout=compact)
 
 ---
