@@ -2,6 +2,7 @@
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/qsei/qsei/blob/develop/README.ru.md)  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)
 
 [![ru](https://img.shields.io/badge/switch%20to-ru-red)](https://github.com/qsei/qsei/blob/develop/README.ru.md) - tests on product =)
+[![ru](https://img.shields.io/badge/switch%3A-ru-green)](https://github.com/qsei/qsei/blob/develop/README.ru.md) - tests on product =)
 
 
 
