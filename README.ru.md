@@ -2,6 +2,7 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)  [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/qsei/qsei/blob/develop/README.ru.md) 
 
+
 ### Приветствую, я — Евген (EVG/qsei)
 Тестировщик-разрушитель, тестировщик-стратег, начинающий системный аналитик. Исследую мир и развиваю навыки.
 Работаю тестировщиком с профилизацией на WEB, на позиции тимлида.
@@ -67,3 +68,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
+
+
+<--
+[![ru](https://img.shields.io/badge/switch%3A-Russian-green)](https://github.com/qsei/qsei/blob/develop/README.ru.md)
+[![en](https://img.shields.io/badge/switch%3A-English-red)](https://github.com/qsei/qsei/blob/develop/README.md)
+ -->
