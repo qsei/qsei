@@ -1,67 +1,24 @@
 # SEI's Space
 
-### Приветствую, я — Евген (EVG/qsei)
-Тестировщик-разрушитель, тестировщик-стратег, начинающий системный аналитик. Исследую мир и развиваю навыки.
-Работаю тестировщиком с профилизацией на WEB, на позиции тимлида.
+### Hello I'm Evgen (EVG/qsei)
+Tester-destroyer, tester-strategist, novice systems analyst. Exploring the World and developing skills.
+I work as a QA engineer with WEB profiling, in the position of team leader.
 
-##### ⚡ Навыки
-- Тестирование: WEB, e2e, backend (API).
-- Языки программирования: Java, Python, JavaScript — языки, к которым питаю интерес. На уровне "написать небольшой скрипт".
+##### ⚡ Skills
+- Testing: WEB, e2e, backend (API).
+- Programming languages: Java, Python, JavaScript — languages ​​that I have an interest in. At the level of "writing a small script".
 
-##### ⚡ Как связаться со мной
-- Telegram: [@eogeny](https://t.me/eogeny) - предпочитаемая форма связи
+##### ⚡ How to contact me
+- Telegram: [@eogeny](https://t.me/eogeny) - preferred form of communication
 - Email: owoox@ya.ru
 
-##### ⚡ Статистика GitHub
+##### ⚡ GitHub statistics 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
 
 
-##### ⚡ Стата по языкам
+##### ⚡ Statistics by lang
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsei&layout=compact)
 
 ---
 
-Буду рад новым знакомствам и коллаборациям! 🎉 Спасибо, что зашли!
-
-
-<!--
-**qsei/qsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 📚 Проекты
-Некоторые из моих проектов:
-- [Проект 1](ссылка_на_репозиторий) - краткое описание.
-- [Проект 2](ссылка_на_репозиторий) - краткое описание.
-
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,c,rust,html,css" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,idea,vscode" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux" />
-  </a>
-</p>
--->
+I'll be glad to meet new people and collaborate! 🎉 Thank you for stopping by!
