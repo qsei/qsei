@@ -1,5 +1,5 @@
  # SEI's Space
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/qsei/qsei/blob/develop/README.ru.md)  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/qsei/qsei/blob/develop/README.ru.md)  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)
 
 ### Hello I'm Evgen (EVG/qsei)
 Tester-destroyer, tester-strategist, novice systems analyst. Exploring the World and developing skills.
