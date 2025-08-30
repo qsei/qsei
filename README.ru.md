@@ -1,6 +1,6 @@
 # SEI's Space
 
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/qsei/qsei/blob/develop/README.md)
 
 ### Приветствую, я — Евген (EVG/qsei)
 Тестировщик-разрушитель, тестировщик-стратег, начинающий системный аналитик. Исследую мир и развиваю навыки.
