@@ -9,8 +9,8 @@
 - Языки программирования: Java, Python, JavaScript — языки, к которым питаю интерес. На уровне "написать небольшой скрипт".
 
 ##### ⚡ Как связаться со мной
+- Telegram: [@eogeny](https://t.me/eogeny) - предпочитаемая форма связи
 - Email: owoox@ya.ru
-- Telegram: [@eogeny](https://t.me/eogeny)
 
 ##### ⚡ Статистика GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
