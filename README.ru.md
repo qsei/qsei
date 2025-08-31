@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - [Проект 2](ссылка_на_репозиторий) - краткое описание.
 
 
-
+<--
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,py,c,rust,html,css" />
@@ -67,10 +67,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=docker,linux" />
   </a>
 </p>
--->
 
 
-<--
+
+
 [![ru](https://img.shields.io/badge/switch%3A-Russian-green)](https://github.com/qsei/qsei/blob/develop/README.ru.md)
 [![en](https://img.shields.io/badge/switch%3A-English-red)](https://github.com/qsei/qsei/blob/develop/README.md)
  -->
