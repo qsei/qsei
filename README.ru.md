@@ -15,13 +15,6 @@
 - Telegram: [@eogeny](https://t.me/eogeny) - предпочитаемая форма связи
 - Email: owoox@ya.ru
 
-##### ⚡ Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
-
-
-##### ⚡ Стата по языкам
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsei&layout=compact)
-
 ---
 
 Буду рад новым знакомствам и коллаборациям! 🎉 Спасибо, что зашли!
