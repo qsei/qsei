@@ -14,13 +14,6 @@ I work as a QA engineer with WEB profiling, in the position of team leader.
 - Telegram: [@eogeny](https://t.me/eogeny) - preferred form of communication
 - Email: owoox@ya.ru
 
-##### ⚡ GitHub statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qsei&show_icons=true&theme=dark)
-
-
-##### ⚡ Statistics by lang
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsei&layout=compact)
-
 ---
 
 I'll be glad to meet new people and collaborate! 🎉 Thank you for stopping by!
